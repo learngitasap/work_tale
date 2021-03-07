@@ -53,7 +53,8 @@ public class karnataka {
 				   }      
 				   if(flag==0)  { System.out.println(n+" is prime number"); }  
 				  }//end of else  
-				  System.out.println("for pratice git");
+				  System.out.println("for pratice git push to master");
+				  System.out.println("again push to master");
 				}    
 				   
 			}  
