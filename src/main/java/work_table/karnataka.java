@@ -30,6 +30,7 @@ public class karnataka {
 			}  
 			}  
 			System.out.println("Array elements in descending order:");  
+			System.out.println("jhgyg fhfg");System.out.println("jhgyg fhfg");System.out.println("jhgyg fhfg");
 			for (int i = 0; i < n - 1; i++)   
 			{  
 			System.out.println(a[i]);  
