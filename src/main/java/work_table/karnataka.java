@@ -37,9 +37,8 @@ public class karnataka {
 			}  
 			System.out.print(a[n - 1]);  
 			} 
-		 void main1(String args[]){    
+			static void checkPrime(int n){  
 				  int i,m=0,flag=0;      
-				  int n=3;//it is the number to be checked    
 				  m=n/2;      
 				  if(n==0||n==1){  
 				   System.out.println(n+" is not prime number");      
@@ -55,6 +54,9 @@ public class karnataka {
 				  }//end of else  
 				  System.out.println("for pratice git push to master");
 				  System.out.println("again push to master");
-				}    
 				   
+
+				  
+				  System.out.println("push again to branch");
+				} 
 			}  
