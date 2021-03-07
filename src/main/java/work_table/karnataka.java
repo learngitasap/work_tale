@@ -52,5 +52,6 @@ public class karnataka {
 				   if(flag==0)  { System.out.println(n+" is prime number"); }  
 				  }//end of else 
 				  System.err.println("push to branch");
+				  System.out.println("push again to branch");
 				} 
 			}  
